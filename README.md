@@ -8,17 +8,21 @@ CosmOz Survey - Data processing
 
 https://github.com/niranman/CosmOz-Data-Processing 
 
+
 SMAP Data Assimilation
 
 https://github.com/SiyuanT/S-GRAFS 
+
 
 Water Balance Model
 Point-based: 
 
 https://github.com/niranman/Water-Balance-Site-Based 
+
 Raster-based:
 
 https://github.com/niranman/Water-Balance-Raster-Based
+
 
 Data-driven approach:
 
