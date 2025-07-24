@@ -13,17 +13,14 @@ SMAP Data Assimilation
 
 https://github.com/SiyuanT/S-GRAFS 
 
-
 Water Balance Model
-Point-based: 
-
+- Point-based: 
 https://github.com/niranman/Water-Balance-Site-Based 
-
-Raster-based:
+- Raster-based:
 
 https://github.com/niranman/Water-Balance-Raster-Based
 
 
-Data-driven approach:
+Data-driven approach
 
 https://github.com/yuxi-research/AgReFed-ML-GPR
